@@ -1,2 +1,2 @@
-# Pyhton_Udemy
+# Pyhton_Codes
 SImple python codes
